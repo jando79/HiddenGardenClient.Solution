@@ -4,7 +4,7 @@
 
 #### An MVC website for sharing local gardens, calling on the HiddenGarden API.
 
-## Technologies Used test
+## Technologies Used
 
 * C#
 * .NET
